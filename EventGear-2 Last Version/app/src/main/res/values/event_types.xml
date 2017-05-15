@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="event_type_array">
+        <item>Sports</item>
+        <item>Cinema</item>
+        <item>Art</item>
+        <item>TV</item>
+        <item>Social Media</item>
+        <item>Internet</item>
+        <item>Health</item>
+        <item>Cooking</item>
+        <item>Familiar Meeting</item>
+        <item>Work Meeting</item>
+        <item>Study Meeting</item>
+    </string-array>
+
+</resources>

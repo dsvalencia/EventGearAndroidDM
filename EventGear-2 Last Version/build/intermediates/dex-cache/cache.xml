@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_540b96b8968d782b4e8742426f921a9f58c27eed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6e6f37a7871a7538043741bdf5def25ec1185245">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0e3f796f341e303505ee488aa641781af75c330f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_6d62cd3dbbbfe5baea963a725b505e4f913f45d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_f8801f90f5c0d22ba3bbab5f29de5bdfd58ba63d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_bc1bb916202c40eddb5c7d4e8c07489791b39441/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_245f65df600d0b28d25e1dbcfb109dc84077d32a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_a851006f93f57d3ad4d2ca786ca4ed1a2e5291b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_347e1d6e12fd17cb45e2794f3689dfb99c03985f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_fece550aa1d21a527812cc78aa131b5fe8142248/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ce827e18f34105aa98ea1b6e9f8d9b94e2a81f15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_f7a30ca1a0e14203a9e91b02d12fcf7f62e9db1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_22ba57e1c266008b39268879adb464252d6d1967/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_8fc7964649310e3d77a8b0ddf0e9c8c40f3052df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_c99977d648a42fc8cba5ff9d0dbb4a0d3f2fb40b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_a29124b88594c21440ab3befe5b131f14dde5a7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_be4382955ca65271cda6caea33f6713fbbbb1d6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a8e0019e8ee32b89fd1a010c4241423997662701/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d77577fadd61da527d9ceba717a1dce5bbe6c1d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_01f8a5c8242191921446583c4d418573dc32bc05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ec0eda14513f9c134c6632ab565cbf05a3041b21">
+        <dex dex="/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_25864a35d9c0833dcf936106ba8442abc3fbbbe5/classes.dex" />
+    </item>
+
+</items>

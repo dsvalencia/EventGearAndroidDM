@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Añadir Evento"
+        android:id="@+id/context_addEvent"
+        />
+    <item android:title="Ver Eventos por categoría"
+        android:id="@+id/context_ListEventsCat"
+        />
+    <item android:title="Modificar Evento seleccionado"
+        android:id="@+id/context_modifyEvent"
+        />
+    <item android:title="Eliminar Evento seleccionado"
+        android:id="@+id/context_deleteEvent"
+        />
+    <item android:title="Preferencias"
+        android:id="@+id/context_prefs"
+        />
+</menu>

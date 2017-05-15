@@ -1,0 +1,7 @@
+#Thu Jan 05 18:55:43 CET 2017
+base.0=/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0e3f796f341e303505ee488aa641781af75c330f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_25864a35d9c0833dcf936106ba8442abc3fbbbe5/classes.dex
+base.1=/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_25864a35d9c0833dcf936106ba8442abc3fbbbe5
+file.0=/Users/Sanchez/Documents/EventGear-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0e3f796f341e303505ee488aa641781af75c330f/classes.dex
